@@ -22,22 +22,22 @@ in the main folder of this repository.
 The figures below show the weight distribution of all 5 models trained on the MNIST dataset for
 50 epochs
 
-<img src="figs/weight_dist_MNIST.png" width="400"> 
+<img src="figs/weight_dist_MNIST.png" width="800"> 
 
 The Table below presents the weight distribution of all 5 models trained on the MNIST dataset for
 50 epochs
 
-<img src="figs/table1.png" width="400">
+<img src="figs/table1.png" width="800">
 
 The figures below show the weight distribution of all 5 models trained on the FMNIST dataset for
 50 epochs
 
-<img src="figs/weight_dist_FMNIST.png" width="400"> 
+<img src="figs/weight_dist_FMNIST.png" width="800"> 
 
 The Table below presents the weight distribution of all 5 models trained on the FMNIST dataset for
 50 epochs
 
-<img src="figs/table2.png" width="400">
+<img src="figs/table2.png" width="800">
 
 
 ## Discussion and Conclusion
